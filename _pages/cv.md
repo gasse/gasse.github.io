@@ -33,15 +33,3 @@ Work experience
 Personal interests
 ======
 * Movies/books, video games, board games, climbing. Open-source enthusiast. Passionate for artificial intelligence, physics, space, science in general.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

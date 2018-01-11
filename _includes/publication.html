@@ -1,0 +1,67 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <p>
+    <b>{{ post.title }}.</b>
+    {% if post.doi %}
+        [<a href="https:doi.org/{{ post.doi }} "><u>doi</u></a>]
+    {% endif %}
+    {% if post.paperurl %}
+        [<a href=" {{ post.paperurl }} "><u>pdf</u></a>]
+    {% endif %}
+    <br/>
+    {{ post.authors }}
+    <br/>
+    {% if post.type == 'PhDThesis' %}
+        PhD Thesis, {{ post.school }},
+    {% elsif post.type == 'article' %}
+        {{ post.journal }},
+        {% if post.volume and post.number %}
+            vol. {{ post.volume }} ({{ post.number }}),
+        {% elsif post.volume %}
+            vol. {{ post.volume }},
+        {% elsif post.number %}
+            ({{ post.number }}),
+        {% endif %}
+        {% if post.pages %}
+            pp. {{ post.pages }},
+        {% endif %}
+    {% elsif post.type == 'inproceedings' %}
+        {{ post.booktitle }},
+        {% if post.volume %}
+            vol. {{ post.volume }},
+        {% endif %}
+        {% if post.pages %}
+            pp. {{ post.pages }},
+        {% endif %}
+    {% endif %}
+    {{ post.year }}
+    </p>
+
+  </article>
+</div>
