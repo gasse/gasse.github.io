@@ -6,5 +6,5 @@ school: 'Claude Bernard University Lyon 1'
 year: '2017'
 authors: 'Maxime Gasse'
 paperurl: 'https://tel.archives-ouvertes.fr/tel-01442613/document'
+slidesurl: '/files/Thesis_presentation.pdf'
 ---
-
