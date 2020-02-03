@@ -11,25 +11,33 @@ redirect_from:
 
 Education
 ======
-* French Engineer diploma in Computer Science, CPE Lyon, 2011
-* M.S. in Artificial Intelligence and Decision Making, Lyon 1 university, 2012
-* Ph.D in Machine Learning, Lyon 1 university, 2017
+* Ph.D in Machine Learning, University of Lyon, 2017
+  * Probabilistic graphical model structure learning, multi-label classification
+
+* M.S. in Artificial Intelligence and Decision Making, University of Lyon, 2012
+  * Machine learning, bio-inspired computing, combinatorial problems, semantic web
+
+* Engineer in Computer Science, CPE Lyon, 2011
+  * Mathematics, electronics, system architecture, signal processing, cryptography
 
 Work experience
 ======
-* Post-doc at the Data Science for Real-Time Decision Making Canada Excellence Research Chair, Polytechnique Montréal (current)
-  * Deep learning for solving operational research problems
+* Post-doc at MILA / Data Science for Real-Time Decision Making CERC, Polytechnique Montréal (2018-current)
+  * _Supervised by Laurent Charlin and Andrea Lodi_
+  * Deep learning for combinatorial optimization
 
 * Post-doc at CREATIS laboratory, Labex PRIMES grant (2017)
+  * _Supervised by Fabien Millioz and Denis Friboulet_
   * Deep learning for ultrafast ultrasound imaging
 
 * PhD at LIRIS laboratory, EU FP7 INTEGRATE grant (2013-2016)
-  * Cycle time prediction and drift cause identification of manufacturing equipments in semiconductor industry (STMicroelectronics)
+  * _Supervised by Haytham Elghazel and Alexandre Aussem_
+  * Cycle time prediction of manufacturing equipments (STMicroelectronics)
 
 * IT Engineer at Logica IT services (2008-2011)
-  * JEE web software for dosimetric monitoring in nuclear power plants (EDF)
-  * Oracle BI data warehouse with automated KPI reports (Carrefour France)
+  * JEE development for radioactive monitoring in nuclear power plants (EDF)
+  * Oracle data warehouse design with automated KPI reporting (Carrefour France)
 
 Personal interests
 ======
-* Movies/books, video games, board games, climbing. Open-source enthusiast. Passionate for artificial intelligence, physics, space, science in general.
+* Movies/books, board games, video games, climbing. Open-source enthusiast. Passionate for artificial intelligence, physics, space, science in general.
