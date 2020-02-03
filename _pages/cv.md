@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Academic resume <a href="/files/academic_resume.pdf"><u> here</u></a>.
+
 Education
 ======
 * Ph.D in Machine Learning, University of Lyon, 2017
