@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Academic resume <a href="/files/academic_resume.pdf"><u> here</u></a>.
+Academic resume <a href="/files/academic_resume.pdf">here</a>.
 
 Education
 ======
