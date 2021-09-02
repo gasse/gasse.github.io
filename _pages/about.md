@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning researcher within the [Data Science for Real-Time Decision Making](http://cerc-datascience.polymtl.ca) Canada Excellence Research Chair (CERC), and also part of the [MILA](https://mila.quebec/mila/) research institute on artificial intelligence in Montréal, Canada. The question that motivates my research is: can machines think?
+I am a researcher at Polytechnique Montréal, Canada. I am affiliated to the [Data Science for Real-Time Decision Making](http://cerc-datascience.polymtl.ca) Canada Excellence Research Chair (CERC), and the [MILA](https://mila.quebec/mila/) research institute on artificial intelligence. The question that motivates my research is: can machines think?
 
 My broad research interests include:
 - **probabilistic graphical models** and their theoretical properties (my [PhD Thesis](https://tel.archives-ouvertes.fr/tel-01442613/document))
