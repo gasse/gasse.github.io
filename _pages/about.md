@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-The fundamental question that drives my research is, can machines think ?
-
 I am a researcher at Polytechnique Montréal, Canada. I am affiliated to the [Data Science for Real-Time Decision Making](http://cerc-datascience.polymtl.ca) Canada Excellence Research Chair (CERC), and the [MILA](https://mila.quebec/mila/) research institute on artificial intelligence. After obtaining a PhD in computer science dedicated to the problem of structure learning in probabilistic graphical models (PGMs), I have been working on a variety of interdisciplinary topics, such as machine learning and medical imaging, or machine learning and combinatorial optimization. Today I am mostly interested in studying if and how ideas from causality can help in the design of autonomous learning agents.
+
+The fundamental question that drives my research is, can machines think ?
 
 My broad research interests include:
 - **probabilistic graphical models** and their theoretical properties (see my [PhD Thesis](https://tel.archives-ouvertes.fr/tel-01442613/document))
