@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Combinatorial Optimization stuff
+<h2>Combinatorial Optimization stuff</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic == "copt" %}
@@ -19,7 +19,7 @@ Combinatorial Optimization stuff
   {% endif %}
 {% endfor %}
 
-Probabilistic Graphical Model stuff
+<h2>Probabilistic Graphical Model stuff</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic == "pgms" %}
@@ -27,7 +27,7 @@ Probabilistic Graphical Model stuff
   {% endif %}
 {% endfor %}
 
-Medical Imaging stuff
+<h2>Medical Imaging stuff</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic == "medic" %}
@@ -35,7 +35,7 @@ Medical Imaging stuff
   {% endif %}
 {% endfor %}
 
-Multi-label Classification stuff
+<h2>Multi-label Classification stuff</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic == "mlc" %}
@@ -43,7 +43,7 @@ Multi-label Classification stuff
   {% endif %}
 {% endfor %}
 
-Other stuff
+<h2>Other stuff</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic != "mlc" and post.topic != "medic" and post.topic != "pgms" %}
