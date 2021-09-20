@@ -43,6 +43,14 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>PhD thesis</h2>
+
+{% for post in site.publications reversed %}
+  {% if post.topic == "phdthesis" %}
+    {% include publication.html %}
+  {% endif %}
+{% endfor %}
+
 <h2>Other stuff</h2>
 
 {% for post in site.publications reversed %}
