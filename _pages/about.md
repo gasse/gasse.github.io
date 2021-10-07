@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Polytechnique Montréal, Canada, associate academic member at the [Mila](https://mila.quebec/mila/) research institute, and member of the [Data Science for Real-Time Decision Making](http://cerc-datascience.polymtl.ca) Canada Excellence Research Chair (CERC). I obtained my PhD in 2017, on the topic of structure learning in probabilistic graphical models (PGMs), and I have since been working on a variety of interdisciplinary topics, such as machine learning and medical imaging, or machine learning and combinatorial optimization.
+I am a researcher at Polytechnique Montréal, Canada, associate academic member at the [Mila research institute](https://mila.quebec/mila/), and member of the [Data Science for Real-Time Decision Making](http://cerc-datascience.polymtl.ca) Canada Excellence Research Chair (CERC). I obtained my PhD in 2017, on the topic of structure learning in probabilistic graphical models (PGMs), and I have since been working on a variety of interdisciplinary topics, such as machine learning and medical imaging, or machine learning and combinatorial optimization.
 
 The fundamental question that drives my research is, can machines think ? Today I am mostly interested in questioning if and how causality can help in the design of autonomous learning agents.
 
