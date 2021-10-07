@@ -51,7 +51,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Other stuff</h2>
+<h2>Other</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic != "phdthesis" and post.topic != "copt" and post.topic != "mlc" and post.topic != "medic" and post.topic != "pgms" %}
