@@ -15,6 +15,6 @@ The fundamental question that drives my research is, can machines think ? Today 
 My broad research interests include:
 - **probabilistic graphical models** and their theoretical properties (see my [PhD Thesis](https://tel.archives-ouvertes.fr/tel-01442613/document))
 - **machine learning for combinatorial optimization** (see our [Ecole](https://arxiv.org/abs/2104.02828) library)
-- **causality**, in particular in the context of reinforcement learning (see our [recent paper](https://arxiv.org/abs/2106.14421) on causal RL)
+- **causality**, in particular in the context of reinforcement learning (see our [recent paper](https://arxiv.org/abs/2106.14421) and my [talk](https://www.youtube.com/watch?v=W4svj2B4qOE) on causal RL)
 
 I am proud to serve the scientific community, and I have been rewarded _NeurIPS 2019 best reviewer_ (top 40%), _ICML 2020 best reviewer_ (top 30%), _NeurIPS 2020 top reviewer_ (top 10%), _ICLR 2021 outstanding reviewer_ (top 10%), and _ICML 2021 expert reviewer_.
