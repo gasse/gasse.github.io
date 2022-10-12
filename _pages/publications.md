@@ -35,7 +35,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Multi-label Classification stuff</h2>
+<h2>Multi-label Classification</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic == "mlc" %}
