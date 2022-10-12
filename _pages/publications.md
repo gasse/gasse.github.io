@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Combinatorial Optimization stuff</h2>
+<h2>Combinatorial Optimization</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic == "copt" %}
@@ -19,7 +19,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Probabilistic Graphical Model stuff</h2>
+<h2>Probabilistic Graphical Model</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic == "pgms" %}
@@ -27,7 +27,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Medical Imaging stuff</h2>
+<h2>Medical Imaging</h2>
 
 {% for post in site.publications reversed %}
   {% if post.topic == "medic" %}
