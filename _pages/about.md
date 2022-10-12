@@ -10,7 +10,7 @@ redirect_from:
 
 I am a **Senior Research Scientist** at [ServiceNow](https://www.servicenow.com/research/) in Montréal, Canada. I am also adjunct professor at [Polytechnique Montreal](https://www.polymtl.ca/), and associate member at the [Mila research institute](https://mila.quebec/mila/).
 
-**Short bio:** I obtained a PhD on the topic of probabilistic graphical models (with [Haytham Elghazel](https://perso.univ-lyon1.fr/haytham.elghazel/) and [Alex Aussem](https://perso.univ-lyon1.fr/alexandre.aussem/)), and two postdocs on the interdisciplinary topics of machine learning for medical imaging (with [Fabien Milloz](http://www.gipsa-lab.fr/~fabien.millioz/index_en.html) and [Denis Friboulet](https://www.creatis.insa-lyon.fr/site7/fr/DenisFriboulet)) and machine learning for combinatorial optimization (with [Laurent Charlin](https://tech.cornell.edu/people/andrea-lodi/) and [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/)).
+I obtained a PhD on the topic of probabilistic graphical models (with [Haytham Elghazel](https://perso.univ-lyon1.fr/haytham.elghazel/) and [Alex Aussem](https://perso.univ-lyon1.fr/alexandre.aussem/)), and two postdocs on the interdisciplinary topics of machine learning for medical imaging (with [Fabien Milloz](http://www.gipsa-lab.fr/~fabien.millioz/index_en.html) and [Denis Friboulet](https://www.creatis.insa-lyon.fr/site7/fr/DenisFriboulet)) and machine learning for combinatorial optimization (with [Laurent Charlin](https://tech.cornell.edu/people/andrea-lodi/) and [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/)).
 
 **Research:** my main motivation is a fundamental understanding of intelligence. In other words, **can machines think?**
 
