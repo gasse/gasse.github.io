@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Polytechnique Montréal, Canada, an associate academic member of the [Mila research institute](https://mila.quebec/mila/), and a member of the [Data Science for Real-Time Decision Making](http://cerc-datascience.polymtl.ca) Canada Excellence Research Chair (CERC). I obtained my PhD in 2017 on the topic of structure learning of probabilistic graphical models (PGMs), and I have since been working on a variety of interdisciplinary topics, such as machine learning applied to medical imaging, or machine learning applied to combinatorial optimization.
+I am **Senior Research Scientist** at [ServiceNow](https://www.servicenow.com/research/) in Montréal, Canada. I am also **adjunct professor** at [Polytechnique Montreal](https://www.polymtl.ca/), and **associate member** at the [Mila research institute](https://mila.quebec/mila/). I obtained a PhD on the topic of probabilistic graphical models (with [Haytham Elghazel](https://perso.univ-lyon1.fr/haytham.elghazel/) and [Alex Aussem](https://perso.univ-lyon1.fr/alexandre.aussem/)), and two postdocs on the interdisciplinary topics of machine learning for medical imaging (with [Fabien Milloz](http://www.gipsa-lab.fr/~fabien.millioz/index_en.html) and [Denis Friboulet](https://www.creatis.insa-lyon.fr/site7/fr/DenisFriboulet)) and machine learning for combinatorial optimization (with [Laurent Charlin](https://tech.cornell.edu/people/andrea-lodi/) and [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/)).
 
-The fundamental question that drives my research is, can machines think ? Today I am mostly interested in questioning if and how causality can help in the design of autonomous learning agents.
+What drives my research is the **understanding of intelligence** through this simple fundamental question: **can machines think?**
 
-My broad scientific interests include:
-- **probabilistic graphical models** and their theoretical properties (see my [PhD Thesis](https://tel.archives-ouvertes.fr/tel-01442613/document))
-- **machine learning for combinatorial optimization** (see our [Ecole](https://arxiv.org/abs/2104.02828) library)
-- **causality**, in particular in the context of reinforcement learning (see our [recent paper](https://arxiv.org/abs/2106.14421) and my [talk](https://www.youtube.com/watch?v=W4svj2B4qOE) on causal RL)
+My current research projects lie at the intersection of **causal inference** and **reinforcemnent learning**. I am mostly interested in questioning if and how ideas from the field of causality can help in the design of autonomous learning agents:
+- how to leverage confounded data in offline RL? (see our [recent paper](https://arxiv.org/abs/2106.14421) and my [talk](https://www.youtube.com/watch?v=W4svj2B4qOE) on causal RL)
+- how can counterfactual reasoning be useful in RL?
 
 I am proud to serve the scientific community, and I have been rewarded _NeurIPS 2019 best reviewer_ (top 40%), _ICML 2020 best reviewer_ (top 30%), _NeurIPS 2020 top reviewer_ (top 10%), _ICLR 2021 outstanding reviewer_ (top 10%), and _ICML 2021 expert reviewer_.
