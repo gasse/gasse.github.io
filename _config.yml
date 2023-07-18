@@ -11,7 +11,7 @@ title                    : "Maxime Gasse"
 title_separator          : "-"
 name                     : &name "Maxime Gasse"
 description              : &description "personal website"
-url                      : https://maximegasse.com # the base hostname & protocol for your site
+url                      : https://www.maximegasse.com # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gasse/gasse.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
