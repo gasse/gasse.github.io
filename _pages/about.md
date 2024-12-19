@@ -16,3 +16,15 @@ I am fascinated by the question of artificial intelligence: [can we build machin
 - counterfactual reasoning in RL
 
 I am currently Action Editor for TMLR. I am proud to serve the scientific community, and I have been rewarded _NeurIPS 2019 best reviewer_ (top 40%), _ICML 2020 best reviewer_ (top 30%), _NeurIPS 2020 top reviewer_ (top 10%), _ICLR 2021 outstanding reviewer_ (top 10%), _ICML 2021 expert reviewer_, _NeurIPS 2022 top reviewer_ (top 10%), and _TMLR expert reviewer_.
+
+Here is my personal, curated list of important reads about artificial intelligence, software engineering and scientific research:
+ - [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm), Richard Feynman 1974
+ - [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html), Richard Hamming 1986
+ - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), Richard Sutton 2019
+ - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/), Eric Steven Raymond 2000
+ - [Your Code: OOP or POO?](https://blog.codinghorror.com/your-code-oop-or-poo/), Jeff Atwood 2007
+ - [Dartmouth Seminar Proposal](http://jmc.stanford.edu/articles/dartmouth.html), J. McCarthy, M. L. Minsky, N. Rochester, C.E. Shannon 1955
+ - [The Awesomest 7-Year Postdoc](https://www.scientificamerican.com/blog/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/), Radhika Nagpal 2013
+ - [The hidden cost of speed](https://stackoverflow.blog/2024/09/05/the-hidden-cost-of-speed/), Brayden A. Hord 2024
+ - [AI isn't the app, it's the UI](https://stackoverflow.blog/2023/05/01/ai-isnt-the-app-its-the-ui/), Isaac Lyman 2023
+ - [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research), Martin A. Schwartz 2008
