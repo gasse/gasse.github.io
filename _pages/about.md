@@ -11,10 +11,10 @@ redirect_from:
 I am currently Member of Technical Staff @ Microsoft AI. I am also adjunct professor at [Polytechnique Montreal](https://www.polymtl.ca/) by courtesy, and associate member of the [Mila research institute](https://mila.quebec/mila/).
 
 Before that I was
-- Senior Research Scientist at [ServiceNow](https://www.servicenow.com/research/), where I did research at the intersection of **causal inference** and **reinforcement learning**, and where I worked on [BrowserGym](https://github.com/ServiceNow/BrowserGym) a framework to evaluate web agents.
-- Researcher and Post-Doc at Polytechnique Montreal, where I worked on machine learning for combinatorial optimization with [Laurent Charlin](https://tech.cornell.edu/people/andrea-lodi/) and [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/)
-- Post-Doc at INSA Lyon where I worked on machine learning for medical imaging with [Fabien Milloz](http://www.gipsa-lab.fr/~fabien.millioz/index_en.html) and [Denis Friboulet](https://www.creatis.insa-lyon.fr/site7/fr/DenisFriboulet)
-- PhD student at Université Lyon 1 where I studied probabilistic graphical models with [Haytham Elghazel](https://perso.univ-lyon1.fr/haytham.elghazel/) and [Alex Aussem](https://perso.univ-lyon1.fr/alexandre.aussem/)
+- Senior Research Scientist at [ServiceNow](https://www.servicenow.com/research/), where I did research at the intersection of **causal inference** and **reinforcement learning**, and where I developed the [BrowserGym](https://github.com/ServiceNow/BrowserGym) library to evaluate web agents.
+- Researcher and Post-Doc at Polytechnique Montreal, where I worked on machine learning for combinatorial optimization with [Laurent Charlin](https://tech.cornell.edu/people/andrea-lodi/) and [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/).
+- Post-Doc at INSA Lyon where I worked on machine learning for medical imaging with [Fabien Milloz](http://www.gipsa-lab.fr/~fabien.millioz/index_en.html) and [Denis Friboulet](https://www.creatis.insa-lyon.fr/site7/fr/DenisFriboulet).
+- PhD student at Université Lyon 1 where I studied probabilistic graphical models with [Haytham Elghazel](https://perso.univ-lyon1.fr/haytham.elghazel/) and [Alex Aussem](https://perso.univ-lyon1.fr/alexandre.aussem/).
 
 I am fascinated by the question of artificial intelligence: [can we build machines that think](https://en.wikipedia.org/wiki/Dartmouth_workshop)? I humbly believe that our attempts at designing thinking machines can be a path towards a fundamental understanding of intelligence and of ourselves. I am interested in questioning if and how ideas from the field of [causality](https://en.wikipedia.org/wiki/Causality_(book)) can help in the design of autonomous learning agents ([paper](https://arxiv.org/abs/2106.14421), [talk](https://www.youtube.com/watch?v=W4svj2B4qOE)).
 
