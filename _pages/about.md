@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently Member of Technical Staff @ Microsoft AI. I am also adjunct professor at [Polytechnique Montreal](https://www.polymtl.ca/) by courtesy, and associate member of the [Mila research institute](https://mila.quebec/mila/).
-
-Before that I was
+I am currently Member of Technical Staff @ Microsoft AI. I am also adjunct professor at [Polytechnique Montreal](https://www.polymtl.ca/) by courtesy, and associate member of the [Mila research institute](https://mila.quebec/mila/). Before that I was
 - Senior Research Scientist at [ServiceNow](https://www.servicenow.com/research/), where I did research at the intersection of **causal inference** and **reinforcement learning**, and where I developed the [BrowserGym](https://github.com/ServiceNow/BrowserGym) library to evaluate web agents.
 - Researcher and Post-Doc at Polytechnique Montreal, where I worked on machine learning for combinatorial optimization with [Laurent Charlin](https://tech.cornell.edu/people/andrea-lodi/) and [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/).
 - Post-Doc at INSA Lyon where I worked on machine learning for medical imaging with [Fabien Milloz](http://www.gipsa-lab.fr/~fabien.millioz/index_en.html) and [Denis Friboulet](https://www.creatis.insa-lyon.fr/site7/fr/DenisFriboulet).
